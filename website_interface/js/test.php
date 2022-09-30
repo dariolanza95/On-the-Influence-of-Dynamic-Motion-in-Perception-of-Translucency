@@ -1,0 +1,3 @@
+function SendSignal(){
+	echo cipolline
+	}

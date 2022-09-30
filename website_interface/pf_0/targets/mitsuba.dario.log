@@ -1,0 +1,8 @@
+2021-06-30 16:26:26 INFO  main [mtsutil.cpp:231] Mitsuba version 0.6.0 (Linux, 64 bit), Copyright (c) 2017 Wenzel Jakob
+2021-06-30 16:26:26 INFO  main [mtsutil.cpp:366] Loading utility "tonemap" ..
+2021-06-30 16:26:26 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/PrototypeFolderStructureAsymetric/targets/den_16_static_stimuli.exr" ..
+2021-06-30 16:26:26 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/PrototypeFolderStructureAsymetric/targets/den_16_static_stimuli.png" ..
+2021-06-30 16:26:26 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/PrototypeFolderStructureAsymetric/targets/den_32_static_stimuli.exr" ..
+2021-06-30 16:26:26 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/PrototypeFolderStructureAsymetric/targets/den_32_static_stimuli.png" ..
+2021-06-30 16:26:26 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/PrototypeFolderStructureAsymetric/targets/den_64_static_stimuli.exr" ..
+2021-06-30 16:26:26 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/PrototypeFolderStructureAsymetric/targets/den_64_static_stimuli.png" ..

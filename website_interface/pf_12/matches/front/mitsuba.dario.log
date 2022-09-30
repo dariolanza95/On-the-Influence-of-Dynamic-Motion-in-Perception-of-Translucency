@@ -1,0 +1,84 @@
+2021-08-05 14:33:50 INFO  main [mtsutil.cpp:231] Mitsuba version 0.6.0 (Linux, 64 bit), Copyright (c) 2017 Wenzel Jakob
+2021-08-05 14:33:50 INFO  main [mtsutil.cpp:366] Loading utility "tonemap" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_0.0.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_0.0.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_0.24999999999999997.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_0.24999999999999997.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_0.5.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_0.5.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_0.75.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_0.75.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_10.0.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_10.0.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_1.0.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_1.0.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_1.25.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_1.25.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_1.5.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_1.5.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_1.75.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_1.75.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_2.0.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_2.0.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_2.25.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_2.25.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_2.5.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_2.5.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_2.75.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_2.75.png" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_3.0.exr" ..
+2021-08-05 14:33:50 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_3.0.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_3.25.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_3.25.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_3.5.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_3.5.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_3.75.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_3.75.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_4.0.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_4.0.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_4.25.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_4.25.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_4.5.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_4.5.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_4.75.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_4.75.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_5.0.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_5.0.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_5.25.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_5.25.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_5.5.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_5.5.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_5.75.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_5.75.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_6.0.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_6.0.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_6.25.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_6.25.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_6.5.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_6.5.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_6.75.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_6.75.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_7.0.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_7.0.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_7.25.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_7.25.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_7.5.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_7.5.png" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_7.75.exr" ..
+2021-08-05 14:33:51 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_7.75.png" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_8.0.exr" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_8.0.png" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_8.25.exr" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_8.25.png" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_8.5.exr" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_8.5.png" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_8.75.exr" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_8.75.png" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_9.0.exr" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_9.0.png" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_9.25.exr" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_9.25.png" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_9.5.exr" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_9.5.png" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Loading image "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_9.75.exr" ..
+2021-08-05 14:33:52 INFO  main [Tonemap] Writing tonemapped image to "/home/dario/git/userstudy_dynamic_translucency/pf_12/matches/front/Lucy_position_frontal_density_9.75.png" ..
